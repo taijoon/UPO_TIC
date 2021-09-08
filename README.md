@@ -16,7 +16,7 @@
 	wget -O opencv_contrib.zip https://github.com/opencv/opencv_contrib/archive/4.2.0.zip
 	unzip opencv.zip
 	unzip opencv_contrib.zip
-<\pre>
+</pre>
 
 ## copy lib env
  - gcc-linaro-6.3.1-2017.05-i686_arm-linux-gnueabihf-g++ 폴더 라이브러리 사용
