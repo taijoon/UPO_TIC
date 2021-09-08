@@ -1,2 +1,6 @@
 # UPO_TIC(Thermal Imaging Camera)
 
+## Device
+ - 아이리스솔루션
+ - link : http://www.irsolution.co.kr/ 
+
