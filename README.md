@@ -6,3 +6,6 @@
 
 ## install package
  - [list link](./list_package.md)
+
+## cmake setting
+ - [cmake](./cmake_setting.md)
