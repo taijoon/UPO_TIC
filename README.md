@@ -1,1 +1,2 @@
-# UPO_TIC
+# UPO_TIC(Thermal Imaging Camera)
+
